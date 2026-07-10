@@ -1,0 +1,6 @@
+variable_1,variable_2,r,ic_low,ic_high,estable
+Curricular units 2nd sem (approved),Curricular units 2nd sem (grade),0.7608041759691457,0.7449867456371899,0.7760747853606005,True
+Age at enrollment,Curricular units 2nd sem (grade),-0.17341895553689493,-0.20550681071862406,-0.14224607087072916,True
+Age at enrollment,Curricular units 2nd sem (approved),-0.1120517778781033,-0.14715740231987684,-0.07758323968626052,True
+Admission grade,Curricular units 2nd sem (approved),0.07665935848713469,0.0457348356087008,0.10739207885419186,True
+Admission grade,Curricular units 2nd sem (grade),0.07440152994542036,0.04063368295056954,0.10783850480962999,True

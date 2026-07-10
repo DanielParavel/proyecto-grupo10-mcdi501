@@ -1,0 +1,7 @@
+Resultado de S1,Validación en S2,Estado
+"Edad media, nota media, proporción Dropout","Clásico, percentil y BCa coinciden",Robusto
+Edad media (valor puntual),Media recortada y mediana caen por debajo de la media completa,Cautela (usar mediana)
+Diferencia de edad (t de Welch),"Permutación, exclusión de outliers y Mann-Whitney U coinciden",Robusto
+"Correlación approved <-> grade (r=0,76)",IC bootstrap no incluye 0; jackknife sin observaciones dominantes,Robusto
+"Correlaciones débiles (|r|<0,17)",IC bootstrap no incluye 0; magnitud práctica pequeña,Robusto pero débil
+"Proporción de Dropout (32,12%)",Monte Carlo la reproduce (valor teórico y simulado coinciden),Robusto
